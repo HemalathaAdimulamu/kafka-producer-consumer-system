@@ -1,4 +1,4 @@
-#🚀 kafka-producer-consumer-system
+# 🚀 Kafka Event Streaming Pipeline
 
 This project demonstrates a **basic real-time data pipeline using Apache Kafka**, built to understand how event-driven systems work.
 
